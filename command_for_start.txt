@@ -1,0 +1,4 @@
+1. docker compose up airflow-init
+2. docker compose up
+
+https://github.com/BasPH/data-pipelines-with-apache-airflow
